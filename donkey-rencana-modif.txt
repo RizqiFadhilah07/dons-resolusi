@@ -1,8 +1,9 @@
 Rencana Modif
 
 - Master Rem RCB S1
-  *Tabung Minyak Rem LightTech
+  *Tabung minyak rem racepro
 - Kaliper
-  * RacePro 2P
+ * racepro 2P
+- Part Carbon
 - ban pirelli
 - benerin fuel pump
